@@ -1,10 +1,13 @@
-*{
-    font-family: monospace;
+html{
+    font-size: 22px;
 }
 
 body{
-    font-size: 22px;
+    /* font-size: 22px; */
+    font-family: monospace;
 }
+
+
 h1,h2{
     color:blueviolet
 }

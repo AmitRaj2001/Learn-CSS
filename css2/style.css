@@ -1,0 +1,21 @@
+body{
+    color: red;
+}
+
+p{
+    color: rgb(255 ,  0  ,  0);
+                /* red green blue*/
+}
+
+.grey{
+    color: rgba(0, 255, 0, 0.9);
+                /* red(255) green(255) blue(0-255) alfa (0 - 1) */
+}
+
+.highlight{
+    color: #010101;
+}
+
+#raj{
+    color: #000;
+}
