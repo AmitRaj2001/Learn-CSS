@@ -1,5 +1,11 @@
-h1 {
-    color: blue;  
+
+main{
+    font-size: 26px;
+}
+
+header > h1 {
+    color: blue;
+    font-size: 40px;
 }
 
 #first {
@@ -10,4 +16,6 @@ h1 {
 .purple {
     color: purple;
     background-color: rgb(147, 188, 147);
+    font-family: monospace;
+    
 }
