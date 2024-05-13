@@ -1,0 +1,13 @@
+h1 {
+    color: blue;  
+}
+
+#first {
+    color: red;
+    background-color: yellow;
+}
+
+.purple {
+    color: purple;
+    background-color: rgb(147, 188, 147);
+}
