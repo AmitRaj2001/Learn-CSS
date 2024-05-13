@@ -40,6 +40,11 @@ header > h1 {
 }
 
 
+/* sudo selectors */
+
+p:hover{
+    font-family: monospace;
+}
 
 /* specicity order in selectors
 
