@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    text-align: end;
+    padding: 20px;
+    background-color: aqua;
+}
+
+li{
+    display: inline;
+    padding:20px;
+}
+
+li:hover{
+    cursor: pointer;
+    color: white;
+}
