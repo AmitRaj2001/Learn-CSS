@@ -1,6 +1,6 @@
-//things that happend in your browser after you fire
-//any requests
+setTimeout(() => {
+    console.log("hello world");
+}, 0);
 
-//1. browser parse the url
-//2. does a dns lookup 
-//3. Establisha connection to the ip 
+console.log("hello world with timeout");
+
